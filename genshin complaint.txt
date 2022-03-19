@@ -14,7 +14,7 @@
 13. Geo construct placement should be possible when there is already a geo contruct down (place it nearest available spot)
 14. buuf indicators (different) with time remaining over hp indicator (2.2 electro charge indicator would work fine)
 15. shields should be stackable(so they would take dmg one after the other(geo crystalise))
-17. Raiden Shogun and Beidou interaction during burst need to be (fixed)Raiden Shogun and Beidou interaction during burst need to be (fixed)
+17. Raiden Shogun and Beidou interaction during burst need to be
 19. In quest where we can test out characters they should have a reasonable set on them for their scalings 
 21. should buff unuseable characters a little (thoma,amber,lisa,xinyan,barbara,...)
 22. favourite foods(so it is easier to find them when cooking or when ressin in a haste)
